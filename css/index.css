@@ -1,0 +1,18 @@
+.compareNumber {
+	padding: 0px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.compareNumber div {
+	display: flex;
+	flex-direction: row;
+	margin: 10px 20px;
+}
+
+.compareNumber label {
+	display: flex;
+	align-items: center;
+	font-size: 20px;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+		<link rel="stylesheet" href="./css/index.css">
+		<script src="js/vue.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<div id="app">
+			<div class="container" style="width: 500px;margin-top:100px">
+				<div class="compareNumber" style="flex-direction: column;">
+				<div style="justify-content: center;"><h1 >欢迎来到登录页!</h1></div>
+				</div>
+				<div class="alert alert-danger alert-dismissable" v-if="error" role="alert">
+				  {{errorMsg}}
+				</div>
+				<div class="alert alert-success"  v-if="success" role="alert">{{errorMsg}}</div>
+				<div v-my-directive>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script src="./js/jquery-3.4.1.min.js"></script>
+	<script src="./js/index.js"  type="text/javascript" charset="utf-8"></script>
+</html>
