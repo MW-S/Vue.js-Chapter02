@@ -3,12 +3,12 @@ Vue.js-Chapter02
 
 ### **登录页面**
 
-![1](.\img\1.png)
+![a](https://cdn.jsdelivr.net/gh/MW-S/MWCloudImg@main/dataa.png)
 
-![2](.\img\2.png)
+![b](https://cdn.jsdelivr.net/gh/MW-S/MWCloudImg@main/datab.png)
 
-![3](.\img\3.png)
+![c](D:\Documents\HBuilderProjects\Vue.js-Chapter02\img\c.png)
 
 
 
-![4](.\img\4.png)
+![d](D:\Documents\HBuilderProjects\Vue.js-Chapter02\img\d.png)
